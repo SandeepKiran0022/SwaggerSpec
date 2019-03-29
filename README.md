@@ -8,14 +8,14 @@ Swagger Spec
 ## Models
 
 <br>
-<img src="https://github.com/SandeepKiran0022/SwaggerSpec/screenshots/1.PNG">
+<img src="https://github.com/SandeepKiran0022/SwaggerSpec/blob/master/screenshots/1.PNG">
 </br>
 
 <br>
-<img src="https://github.com/SandeepKiran0022/SwaggerSpec/screenshots/2.PNG">
+<img src="https://github.com/SandeepKiran0022/SwaggerSpec/blob/master/screenshots/1.PNG">
 </br>
 
 <br>
-<img src="https://github.com/SandeepKiran0022/SwaggerSpec/screenshots/3.PNG">
+<img src="https://github.com/SandeepKiran0022/SwaggerSpec/blob/master/screenshots/1.PNG">
 </br>
 
